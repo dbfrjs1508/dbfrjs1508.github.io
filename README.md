@@ -1,1 +1,0 @@
-# yulgeon.github.io
